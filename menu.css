@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(168, 163, 163);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    background-color: gray;
+    text-align: left;
+    border:2px solid teal;
+    border-radius: 20px;
+    width: 130px;
+}

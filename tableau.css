@@ -1,0 +1,93 @@
+table{
+    border-collapse: collapse;
+    background-color: gray;
+    border-radius: 15px;
+    text-align: center;
+    
+   
+
+}
+td{
+    border:solid;
+    border-color: teal;
+    border-width: 1px;
+    border-radius: 15px;
+    
+}
+th{
+    border:2px solid black;
+
+}
+body{
+    background-color:rgb(168, 163, 163);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 2em;
+    
+
+}
+/* Listes à puces non ordonnées */
+.cercle
+{
+list-style-type: circle;
+}
+.carre
+{
+list-style-type: square;
+}
+.rien
+{
+list-style-type: none;
+}
+.commence_a_zero
+{
+list-style-type: decimal-leading-zero;
+}
+.lettres_minuscules
+{
+list-style-type: lower-alpha;
+}
+.chiffres_romains
+{
+list-style-type: upper-roman;
+}
+.lettres_grecques
+{
+list-style-type: lower-greek;
+}
+p{
+    text-align: center;
+    background-color: gray;
+    margin: auto;
+    width: 500px;
+    border-radius: 20px;
+    border:2px solid teal;
+
+}
+ul{
+    background-color: gray;
+    border:2px solid teal;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+    
+}
+ol{
+    background-color: gray;
+    border:2px solid teal;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    background-color: gray;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    border:3px solid teal;
+}
+button{
+    background-color: gray;
+    border-radius: 10px;
+    border:2px solid teal;
+}

@@ -1,0 +1,27 @@
+.block{
+    background-color: gray;
+    border-radius: 50px;
+    width: 500px;
+    border: 2px solid teal;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+      background-color:rgb(168, 163, 163);
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: gray;
+    margin: auto;
+    width: 250px;
+    border-radius: 10px;
+    border: 2px solid teal;
+
+}
+input,textarea,#pays,button{
+    background-color:rgb(168, 163, 163);
+    border-radius: 10px;
+
+}

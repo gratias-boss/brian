@@ -1,0 +1,58 @@
+
+
+body{
+    background-color:rgb(168, 163, 163);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 2em;
+   
+
+}
+.entete{
+    text-align: center;
+    border:2px solid teal ;
+    text-align: center;
+    padding: 15px;
+    margin:auto;
+    background-color:gray;
+    border-radius: 15px;
+    width:600px ;
+    height:100px ;
+    
+}
+.etat{
+    border:2px solid teal;
+    border-radius: 10px;
+    width:600px ;
+    height:240px ;
+    text-align: center;
+    margin: auto;
+    background-color:gray;
+    
+
+    
+
+}
+.diplome{
+    border:2px solid teal;
+    border-radius: 10px;
+    width:600px ;
+    height:150px ;
+    margin: auto;
+    background-color:gray;
+    
+
+}
+.personnalite{
+    border:2px solid teal;
+    border-radius: 10px;
+    width:600px ;
+    height:460px ;
+    margin: auto;
+    background-color: gray;
+    
+}
+
+
+    
